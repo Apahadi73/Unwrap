@@ -34,7 +34,7 @@
     "wrong": [
         {
             "answer": "let upgrade() = {\n\tprint(\"Upgrading...\")\n}\nupgrade()",
-            "reason": "The parentheses after <code>upgrade<\/code> should not be there.."
+            "reason": "The parentheses after <code>'let upgrade'<\/code> should not be there.."
         },
         {
             "answer": "let sing {\n\tprint(\"Tralala\")\n}\nsing()",
